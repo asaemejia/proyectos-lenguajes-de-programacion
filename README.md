@@ -10,7 +10,7 @@
 ---
 
 ```
-codig log()
+console(hola, mundo)
 ```
 
 
